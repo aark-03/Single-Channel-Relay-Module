@@ -1,1 +1,1 @@
-# Single-Channel-Relay-Module-PCB
+# Single-Channel-Relay-Module
